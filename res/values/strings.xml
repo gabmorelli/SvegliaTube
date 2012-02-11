@@ -4,6 +4,7 @@
     <string name="hello">Hello World, mi scappa la cacca!</string>
     <string name="app_name">SvegliaTube</string>
     <string name="main_lbl_setalarm">Set alarm</string>
+    <string name="main_lbl_newalarm">New alarm</string>
     <string name="receiver_lbl_stop">Stop Alarm</string>
 
 </resources>
