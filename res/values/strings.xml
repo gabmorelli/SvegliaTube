@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="hello">Hello World, Test commit!</string>
+    <string name="hello">Hello World, mi scappa la cacca!</string>
     <string name="app_name">SvegliaTube</string>
 
 </resources>
